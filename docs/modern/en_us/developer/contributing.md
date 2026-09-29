@@ -25,7 +25,7 @@ In general, we will not hold you accountable for personal stylistic choices in y
     <summary> Info </summary>
 
 There are no strict organization principles in our repositories. For most purposes try to use common sense when deciding where things should go. But at the very least, please try to follow these rules:
-- **No hard-coded text!** Lang strings should be used in all relevant places and submitted to our [Tools Repository](https://github.com/TerraFirmaGreg-Team/Tools-Modern/tree/dev/LanguageMerger) for translation.
+- **No hard-coded text!** Lang strings should be used in all relevant places and submitted to our [Language Folder](https://github.com/TerraFirmaGreg-Team/Modpack-Modern/tree/dev/kubejs/assets/tfg/lang/en_us) for translation.
 - Custom GT machines/multiblocks should be submitted in our [Core Mod](https://github.com/TerraFirmaGreg-Team/Core-Modern) instead of done through KubeJS.
 - Recipes, basic items/blocks, materials, data, assets, loot, etc. Should be submitted through [Kubejs](https://github.com/TerraFirmaGreg-Team/Modpack-Modern/tree/dev/kubejs) instead of in our core mod when most convenient.
 - All custom recipes, assets, items, blocks, etc. Should be in the `tfg:` namespace when possible.
@@ -486,7 +486,7 @@ Creation steps will vary wildly between different types of projects. However, fo
 2. Place assets for your new item in the appropriate folders within the `assets` directory. Ensure that the assets follow the same name and file path as the item itself or the custom path you specified in the item registration. KubeJS will automatically create basic models, so typically you only need to provide a texture.
 3. In `server_scripts.js` create recipes for your new item. Make sure to use tags when possible and give each recipe a unique ID.
 4. If you want to add a custom tooltip to your item, then you can do it in `client_scripts.js`.
-5. Submit lang strings for your new item (and your custom tooltip if applicable) to our [Tools Repository](https://github.com/TerraFirmaGreg-Team/Tools-Modern/tree/dev/LanguageMerger).
+5. Submit lang strings for your new item (and your custom tooltip if applicable) to our [Language Folder](https://github.com/TerraFirmaGreg-Team/Modpack-Modern/tree/dev/kubejs/assets/tfg/lang/en_us).
 6. Test all your changes and then commit them to your branch. Then submit a pull request to the TFG `dev` branch for review.
 
 >[!TIP]

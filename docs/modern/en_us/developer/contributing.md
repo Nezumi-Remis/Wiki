@@ -42,15 +42,7 @@ Please make a new branch for each pull request and keep submissions focused on o
 
 </details>
 
-### <span style="color:gray">d.</span> AI Use/ Disclosure
-<details open>
-    <summary> Info </summary>
-
-The use of Artificial Intelligence or more specifically LLM's is not allowed when contributing to TerraFirmaGreg-Modern, our core mod, or translations. We understand that LLM's may provide help in diagnosing issues or peer-reviewing translation work, and we may begrudgingly accept such use. But in general all code must be at least 90% written by you, 100% of assets must be man-made, and all work must be checked by you. If you do not understand programming when using AI, do not submit your work to us we do not want it. If you have used AI to assist in diagnosing issues or writing challenging sections of code, then you must always disclose of such use for us to review. We may ask for sections to be rewritten if they do not meet our standards for non-slop. And we may completely reject your pull requests if we feel there is enough evidence for AI use. If we find that you have used AI extensively without disclosing of such, you may be banned from our repository. We have a reputation to uphold; we will not allow non-human work to taint our quality standards.
-
-</details>
-
-### <span style="color:gray">e.</span> Art Direction
+### <span style="color:gray">d.</span> Art Direction
 <details open>
     <summary> Info </summary>
 
@@ -58,7 +50,7 @@ We take our art direction and vision for our pack seriously. It is important to 
 
 </details>
 
-### <span style="color:gray">f.</span> Coding Standards
+### <span style="color:gray">e.</span> Coding Standards
 <details open>
     <summary> Info </summary>
 
@@ -72,6 +64,14 @@ Although stylistic preferences are allowed to vary, it is important to maintain 
 - When creating recipes or functions, attempt to use [Tags](https://minecraft.wiki/w/Tag_(Java_Edition)) instead of hard-coded items. This can make your code more flexible and less prone to breaking as items change over time.
 
 </details>
+</details>
+
+## <ModernHeader fade><GradientText> AI Use / Disclosure </GradientText></ModernHeader>
+<details>
+    <summary> Info </summary>
+
+The use of Artificial Intelligence or more specifically LLM's is not allowed when contributing to TerraFirmaGreg-Modern, our core mod, or translations. We understand that LLM's may provide help in diagnosing issues or peer-reviewing translation work, and we may begrudgingly accept such use. But in general all code must be at least 90% written by you, 100% of assets must be man-made, and all work must be checked by you. If you do not understand programming when using AI, do not submit your work to us we do not want it. If you have used AI to assist in diagnosing issues or writing challenging sections of code, then you must always disclose of such use for us to review. We may ask for sections to be rewritten if they do not meet our standards for non-slop. And we may completely reject your pull requests if we feel there is enough evidence for AI use. If we find that you have used AI extensively without disclosing of such, you may be banned from our repository. We have a reputation to uphold; we will not allow non-human work to taint our quality standards.
+
 </details>
 
 ## <ModernHeader fade><GradientText> Outside Resources </GradientText></ModernHeader>
